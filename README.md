@@ -1,8 +1,10 @@
 ## Description
 
-A software rasterizer made using the C programming language. The only libraries used are the win32 libraries for window creation and window management, C standard libraries for file I/O and math functions.
+A software rasterizer made using the C programming language. The only libraries used are the win32 libraries for window creation and window management, C standard libraries for file I/O and math functions. 
 
-### Note: All image file inputs and output in the BMP (Windows Bitmap) format.
+### Platforms supported: Windows
+
+### Note: The rasterizer only works with the BMP (Windows Bitmap) format.
 
 #### Some examples created using the rasterizer 
 
